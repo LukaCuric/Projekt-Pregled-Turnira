@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0006: Metadata file 'C:\Users\curic\source\repos\Projekt\Projekt-Pregled-Turnira\Software\TournamentTracker\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.dll' could not be found
+dotnet_diagnostic.CS0006.severity = none

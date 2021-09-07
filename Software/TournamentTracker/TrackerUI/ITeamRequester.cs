@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TrackerLibrary.Models;
 
-namespace TrackerLibrary
+namespace TrackerUI
 {
-    public interface IDataConnection
+    public interface ITeamRequester
     {
-        PrizeModel CreatePrize(PrizeModel model);
+        void TeamComplete(TeamModel model);
     }
 }
