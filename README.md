@@ -15,4 +15,4 @@ Broj sudionika	Vrsta dvoboja
       64	          64-finale
       128	          128-finale
 
-Aplikacija bilježi rezultate dvoboja i vrijeme dvoboja te prije svakog dvoboja obavještava sudionike dvoboja da im se približava sljedeći termin putem emaila. Na početku turnira se može odrediti naknada za pristup turniru kao i nagrada koju može osvojiti tim ili pojedinac koji pobijedi u finalnom dvoboju.
+Aplikacija bilježi rezultate dvoboja. Na početku turnira se može odrediti naknada za pristup turniru kao i nagrada koju može osvojiti tim ili pojedinac koji pobijedi u finalnom dvoboju.
